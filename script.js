@@ -138,3 +138,7 @@ document.addEventListener('DOMContentLoaded', () => {
     createFloatingElements();
     // Resto de las inicializaciones existentes...
 });
+
+
+
+
